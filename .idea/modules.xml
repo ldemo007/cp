@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cp.iml" filepath="$PROJECT_DIR$/cp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp-api/cp-api.iml" filepath="$PROJECT_DIR$/cp-api/cp-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp-common/cp-common.iml" filepath="$PROJECT_DIR$/cp-common/cp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp-console/cp-console.iml" filepath="$PROJECT_DIR$/cp-console/cp-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp-web/cp-web.iml" filepath="$PROJECT_DIR$/cp-web/cp-web.iml" />
+    </modules>
+  </component>
+</project>
